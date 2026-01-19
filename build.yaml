@@ -19,6 +19,6 @@
 #
 ---
 include:
-    - board: eli_board
+    - board: pro_micro
       shield: eli_board
 
