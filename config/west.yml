@@ -6,6 +6,8 @@ manifest:
       url-base: https://github.com/zmkfirmware
     # Additional modules containing boards/shields/custom code can be listed here as well
     # See https://docs.zephyrproject.org/3.2.0/develop/west/manifest.html#projects
+    - name: zmk-keyboard-eli
+      url-base: https://github.com/Eli-Reece/zmk-keyboard-eli
   projects:
     - name: zmk
       remote: zmkfirmware
